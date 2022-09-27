@@ -1,0 +1,10 @@
+word = 'abcdehg'
+print(word[2])
+print(word[-2])
+print(word[0:5])
+print(word[0:-2])
+print(word[0:len(word):2])
+print(word[1:len(word)-1:2])
+print(word[::-1])
+print(word[-1:-len(word)-1:-2])
+print(len(word))
