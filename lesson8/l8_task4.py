@@ -16,15 +16,3 @@ def countdown(sec=None) -> int:
 (countdown(3))
 print(what_time_is_it_now())
 
-
-
-
-
-
-
-# for i in range(seconds):
-#     print(str(seconds - i) + " Seconds Left")
-#     time.sleep(1)
-#
-#
-# print("Boom Time is Up ")
